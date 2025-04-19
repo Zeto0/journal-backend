@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "username": "ibtida",
+      "password": "$2b$10$RPRUHgCYdQIuOp5qUI2zdODP.NVz06WbnNu7YRCU5S/luoA7D6ixq",
+      "role": "admin"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "This is the first post",
+      "content": "Hey girl. You are the sweetest ",
+      "date": "2025-04-19T03:14:25.305Z",
+      "private": false
+    }
+  ]
+}
